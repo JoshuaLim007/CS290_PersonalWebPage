@@ -1,0 +1,24 @@
+.BlogEntree {
+    padding: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.BlogEntree h1 {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.BlogEntree .EntreeElement {
+    border: 1px solid rgba(38, 38, 38, 0.494);
+    box-shadow: 16px 16px 48px rgba(51, 51, 51, 0.1);
+    border-radius: 32px;
+    text-align: left;
+    padding: 16px;
+    margin: 20px;
+}
+
+.BlogEntree .EntreeElement p {
+    padding-bottom: 15px;
+    margin: 0px;
+}
